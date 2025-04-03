@@ -25,7 +25,18 @@ $calculation1 = $random1 + $random2;
 $calculation2 = $calculation1 / $random3;
 
 echo $calculation1 . "<br>";
-echo $calculation2;
+echo $calculation2   . "<br>";
+
+
+
+
+$mama = 41;
+
+echo "mama is $mama jaar oud";
+
+
+
+
 
 
 ?>
