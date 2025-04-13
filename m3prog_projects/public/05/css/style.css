@@ -1,0 +1,28 @@
+ body {
+        font-family: 'Courier New', Courier, monospace; 
+        background-color: #610505;
+        color: #980808;
+        padding: 2rem;
+        text-align: center;
+    }
+
+    h1 {
+        color: #444;
+        margin-bottom: 1rem;
+    }
+
+    .cost-output {
+        background-color: #300202;
+        padding: 1rem 2rem;
+        margin: 1rem auto;
+        display: inline-block;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        font-size: 1.2rem;
+    }
+
+    .cost-output span {
+        display: block;
+        margin: 0.5rem 0;
+    }
+
